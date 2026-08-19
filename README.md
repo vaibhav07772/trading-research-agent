@@ -15,7 +15,7 @@
 
 ## 🖥️ UI Screenshot
 
-![Multi-Agent Trading Research UI](images/ui_screenshot.png)
+![Multi-Agent Trading Research UI](images/ui_screenshot.jpeg)
 
 *"4 AI agents collaborate in real-time to provide comprehensive stock analysis."*
 
